@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 希望把这里作为一个独有的树洞！
 
 You can use the [editor on GitHub](https://github.com/marenzhong/marenzhong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 排遣郁闷和烦躁
+## 倾诉苦闷和快乐
+### 让自己迷茫能时常保持清醒，拒绝沉沦！
 
 - Bulleted
 - List
