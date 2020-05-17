@@ -1,3 +1,7 @@
+## 2020-5-17
+* 心情焦虑，压力大，不确定的事情太多了，不知道怎样才能让那人满意！
+* 不会汇报工作？思路不清楚？语言表达能力差？
+* 脆弱、敏感的人，能独居，才感到岁月静好。否则，陷冷漠的社交，看透人性的卑劣，体会不到尊严，痛苦万分。
 ## 希望把这里作为一个独有的树洞！
 
 You can use the [editor on GitHub](https://github.com/marenzhong/marenzhong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
